@@ -1,0 +1,4 @@
+../Core/Src/CalculationEvent.cpp:5:1:CalculationEvent::~CalculationEvent()	0	static
+../Core/Src/CalculationEvent.cpp:5:1:virtual CalculationEvent::~CalculationEvent()	8	static
+../Core/Src/CalculationEvent.cpp:7:6:virtual void CalculationEvent::handleEvent()	32	static
+../Core/Src/CalculationEvent.cpp:4:1:CalculationEvent::CalculationEvent()	0	static

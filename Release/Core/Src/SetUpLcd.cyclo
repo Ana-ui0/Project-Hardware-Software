@@ -1,0 +1,5 @@
+../Core/Src/SetUpLcd.cpp:8:1:SetUpLcd::~SetUpLcd()	1
+../Core/Src/SetUpLcd.cpp:8:1:virtual SetUpLcd::~SetUpLcd()	1
+../Core/Src/SetUpLcd.cpp:7:1:SetUpLcd::SetUpLcd()	1
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/bits/deque.tcc:164:7:) [with _Args = {Event*}; _Tp = Event*; _Alloc = std::allocator<Event*>]	8
+../Core/Src/SetUpLcd.cpp:10:6:virtual void SetUpLcd::handleEvent()	2

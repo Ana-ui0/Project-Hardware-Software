@@ -1,0 +1,4 @@
+../Core/Src/CalculationEvent.cpp:5:1:CalculationEvent::~CalculationEvent()	1
+../Core/Src/CalculationEvent.cpp:5:1:virtual CalculationEvent::~CalculationEvent()	1
+../Core/Src/CalculationEvent.cpp:7:6:virtual void CalculationEvent::handleEvent()	8
+../Core/Src/CalculationEvent.cpp:4:1:CalculationEvent::CalculationEvent()	1

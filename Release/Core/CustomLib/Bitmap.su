@@ -1,0 +1,3 @@
+../Core/CustomLib/Bitmap.cpp:15:1:Bitmap::~Bitmap()	0	static
+../Core/CustomLib/Bitmap.cpp:15:1:virtual Bitmap::~Bitmap()	8	static
+../Core/CustomLib/Bitmap.cpp:10:1:Bitmap::Bitmap()	32	static

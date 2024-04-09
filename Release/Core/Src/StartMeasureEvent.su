@@ -1,0 +1,5 @@
+../Core/Src/StartMeasureEvent.cpp:5:1:StartMeasureEvent::~StartMeasureEvent()	0	static
+../Core/Src/StartMeasureEvent.cpp:5:1:virtual StartMeasureEvent::~StartMeasureEvent()	8	static
+../Core/Src/StartMeasureEvent.cpp:7:6:virtual void StartMeasureEvent::handleEvent()	8	static
+../Core/Src/StartMeasureEvent.cpp:4:1:StartMeasureEvent::StartMeasureEvent()	0	static
+../Core/Src/StartMeasureEvent.cpp:14:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	32	static

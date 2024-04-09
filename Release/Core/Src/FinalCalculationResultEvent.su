@@ -1,0 +1,5 @@
+../Core/Src/FinalCalculationResultEvent.cpp:9:1:FinalCalculationResultEvent::~FinalCalculationResultEvent()	0	static
+../Core/Src/FinalCalculationResultEvent.cpp:9:1:virtual FinalCalculationResultEvent::~FinalCalculationResultEvent()	8	static
+../Core/Src/FinalCalculationResultEvent.cpp:8:1:FinalCalculationResultEvent::FinalCalculationResultEvent()	0	static
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/bits/deque.tcc:164:7:) [with _Args = {Event*}; _Tp = Event*; _Alloc = std::allocator<Event*>]	32	static
+../Core/Src/FinalCalculationResultEvent.cpp:11:6:virtual void FinalCalculationResultEvent::handleEvent()	48	static
