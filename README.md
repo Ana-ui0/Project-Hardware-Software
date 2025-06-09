@@ -1,4 +1,3 @@
-Here's a clear and descriptive README file for your GitHub repository that neatly summarizes your university project:
 
 
 # Component Tester for RC-Circuits Using STM32 Nucleo Boards
